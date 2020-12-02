@@ -1,0 +1,12 @@
+/Users/sonofsun/Projects/DealerOnSaleTaxes/DealerOnSaleTaxes/bin/Debug/netcoreapp3.1/DealerOnSaleTaxes.deps.json
+/Users/sonofsun/Projects/DealerOnSaleTaxes/DealerOnSaleTaxes/bin/Debug/netcoreapp3.1/DealerOnSaleTaxes.runtimeconfig.json
+/Users/sonofsun/Projects/DealerOnSaleTaxes/DealerOnSaleTaxes/bin/Debug/netcoreapp3.1/DealerOnSaleTaxes.runtimeconfig.dev.json
+/Users/sonofsun/Projects/DealerOnSaleTaxes/DealerOnSaleTaxes/bin/Debug/netcoreapp3.1/DealerOnSaleTaxes.dll
+/Users/sonofsun/Projects/DealerOnSaleTaxes/DealerOnSaleTaxes/bin/Debug/netcoreapp3.1/DealerOnSaleTaxes.pdb
+/Users/sonofsun/Projects/DealerOnSaleTaxes/DealerOnSaleTaxes/obj/Debug/netcoreapp3.1/DealerOnSaleTaxes.csprojAssemblyReference.cache
+/Users/sonofsun/Projects/DealerOnSaleTaxes/DealerOnSaleTaxes/obj/Debug/netcoreapp3.1/DealerOnSaleTaxes.AssemblyInfoInputs.cache
+/Users/sonofsun/Projects/DealerOnSaleTaxes/DealerOnSaleTaxes/obj/Debug/netcoreapp3.1/DealerOnSaleTaxes.AssemblyInfo.cs
+/Users/sonofsun/Projects/DealerOnSaleTaxes/DealerOnSaleTaxes/obj/Debug/netcoreapp3.1/DealerOnSaleTaxes.csproj.CoreCompileInputs.cache
+/Users/sonofsun/Projects/DealerOnSaleTaxes/DealerOnSaleTaxes/obj/Debug/netcoreapp3.1/DealerOnSaleTaxes.dll
+/Users/sonofsun/Projects/DealerOnSaleTaxes/DealerOnSaleTaxes/obj/Debug/netcoreapp3.1/DealerOnSaleTaxes.pdb
+/Users/sonofsun/Projects/DealerOnSaleTaxes/DealerOnSaleTaxes/obj/Debug/netcoreapp3.1/DealerOnSaleTaxes.genruntimeconfig.cache
